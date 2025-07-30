@@ -23,3 +23,23 @@ todo_app/
 ├── todo.py # Main application logic
 ├── tasks.json # Task data stored here (auto-generated)
 └── README.md # You're reading it!
+
+
+## Requirements
+
+- Python 3.8 or later installed on your machine  
+- No third-party libraries required (pure Python)
+
+---
+
+##  How to Run the Application
+
+1. **Download or clone** this repository:
+   ```bash
+   git clone https://github.com/Rithika-Gurusamy/todo_app.git
+   cd todo_app
+
+2. Run the application:
+
+bash
+python todo.py
